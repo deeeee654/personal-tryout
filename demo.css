@@ -1,0 +1,25 @@
+img {
+  width: 1500px;
+  height: auto;
+  align-self: center;
+  border: solid 5px rgb(114, 141, 155);
+  border-radius: 10px;
+}
+h1 {
+  font-size: 48px;
+  text-align: center;
+  background-color: rgb(114, 141, 155);
+}
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center;
+}
+button {
+  background-color: rgb(114, 141, 155);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
